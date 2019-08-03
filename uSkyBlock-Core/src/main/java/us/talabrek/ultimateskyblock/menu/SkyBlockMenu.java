@@ -80,7 +80,7 @@ public class SkyBlockMenu {
     );
     private List<BiomeMenuItem> biomeMenus = Arrays.asList(
             new BiomeMenuItem(new ItemStack(Material.RAW_FISH, 1, (short) 2),
-                    "ocean", tr("Ocean"),
+                    "ocean", tr("Óceán"),
                     tr("The ocean biome is the basic\nstarting biome for all islands.\npassive mobs like animals will\nnot spawn. Hostile mobs will\nspawn normally.")
             ),
             new BiomeMenuItem(new ItemStack(Material.SAPLING, 1, (short) 1),
